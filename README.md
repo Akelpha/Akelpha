@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react and NextJs but above all Algorithms and Data Structure
 - 💞️ I’m looking to collaborate on projects for improving my software skills
 - 📫 How to reach me : by LinkedIn 
-- ⚡ Fun fact: I want to become an engineer in cybersecurity but i will probably not study it in the university.
+- ⚡ Fun fact: I want to become an engineer in cybersecurity but i will probably not study it in the university( let's say i don't know).
 
 <!---
 Akelpha/Akelpha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
