@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keren Nzira</h1>
 <h3 align="center">A passionate IT girl in Morocco(I'm Congolese BTW)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akelpha" alt="akelpha" /></a> </p>
-
 - 🌱 I’m currently learning **python and C**
 
 - 📫 How to reach me **kerennzira@icloud.com**
